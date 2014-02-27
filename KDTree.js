@@ -3,6 +3,9 @@
 /**
  * A KDTree implementation in JavaScript based on binary tree.
  * Author: jo32
+ * 
+ * License: MIT
+ * 
  **/
 
 if (require) {
