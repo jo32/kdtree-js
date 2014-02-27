@@ -9,6 +9,11 @@ KDTree in JavaScript
     var t = new KDTree({
         "dimensions": ["x", "y"]
     });
+
+    var p1 = {
+        "x": 3,
+        "y": 4
+    }
     // ...
 
     }
