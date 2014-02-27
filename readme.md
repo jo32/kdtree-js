@@ -23,4 +23,4 @@ KDTree in JavaScript
         "x": 1,
         "y": 1
     }, metric);
-    // where r is a list return 3 nearest neigbors
+    // where r is a list containing 3 nearest neigbors
